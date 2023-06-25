@@ -1,0 +1,7 @@
+use java 17
+
+./gradlew build
+
+import the jar into intellij
+
+    plugins -> settings gear thing -> install plugin from disk
